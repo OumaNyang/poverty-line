@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://oumanyang.github.io/client-template/",
+  "homepage": "https://oumanyang.github.io/poverty-line/",
   "dependencies": {
     "bootstrap": "^5.2.0",
     "react": "17.0.0",
