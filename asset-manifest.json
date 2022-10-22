@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/poverty-line/static/css/main.070ea7ba.chunk.css",
+    "main.js": "/poverty-line/static/js/main.b5cce9a6.chunk.js",
+    "main.js.map": "/poverty-line/static/js/main.b5cce9a6.chunk.js.map",
+    "runtime-main.js": "/poverty-line/static/js/runtime-main.ebddc8bf.js",
+    "runtime-main.js.map": "/poverty-line/static/js/runtime-main.ebddc8bf.js.map",
+    "static/css/2.a779dd76.chunk.css": "/poverty-line/static/css/2.a779dd76.chunk.css",
+    "static/js/2.aca2ab64.chunk.js": "/poverty-line/static/js/2.aca2ab64.chunk.js",
+    "static/js/2.aca2ab64.chunk.js.map": "/poverty-line/static/js/2.aca2ab64.chunk.js.map",
+    "index.html": "/poverty-line/index.html",
+    "precache-manifest.0dfb8ab5b2464bb8be72d5e26b4a7fee.js": "/poverty-line/precache-manifest.0dfb8ab5b2464bb8be72d5e26b4a7fee.js",
+    "service-worker.js": "/poverty-line/service-worker.js",
+    "static/css/2.a779dd76.chunk.css.map": "/poverty-line/static/css/2.a779dd76.chunk.css.map",
+    "static/css/main.070ea7ba.chunk.css.map": "/poverty-line/static/css/main.070ea7ba.chunk.css.map",
+    "static/js/2.aca2ab64.chunk.js.LICENSE.txt": "/poverty-line/static/js/2.aca2ab64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebddc8bf.js",
+    "static/css/2.a779dd76.chunk.css",
+    "static/js/2.aca2ab64.chunk.js",
+    "static/css/main.070ea7ba.chunk.css",
+    "static/js/main.b5cce9a6.chunk.js"
+  ]
+}
